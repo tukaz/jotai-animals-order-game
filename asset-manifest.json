@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jotai-animals-order-game/static/css/main.edec7365.css",
+    "main.js": "/jotai-animals-order-game/static/js/main.aea31bd2.js",
+    "static/js/787.082941f3.chunk.js": "/jotai-animals-order-game/static/js/787.082941f3.chunk.js",
+    "index.html": "/jotai-animals-order-game/index.html",
+    "main.edec7365.css.map": "/jotai-animals-order-game/static/css/main.edec7365.css.map",
+    "main.aea31bd2.js.map": "/jotai-animals-order-game/static/js/main.aea31bd2.js.map",
+    "787.082941f3.chunk.js.map": "/jotai-animals-order-game/static/js/787.082941f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edec7365.css",
+    "static/js/main.aea31bd2.js"
+  ]
+}
